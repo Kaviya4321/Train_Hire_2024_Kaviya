@@ -1,0 +1,10 @@
+switch(ind):
+{
+
+case ind:
+
+
+    dafaul:
+    
+
+}
